@@ -20,8 +20,8 @@ Before running the script, ensure the following:
 ## How to Use
 1. Clone the repository or download the script:
    ```bash
-   git clone 
-   cd <repository_folder>
+   git clone https://github.com/mahesh-diwan/AWS-Resource-Tracker.git
+   cd AWS-Resource-Tracker
    ```
 2. Make the script executable:
    ```bash
@@ -71,8 +71,6 @@ Before running the script, ensure the following:
 - Format output into a more readable report (e.g., CSV or HTML).
 - Include error handling for missing dependencies or insufficient permissions.
 
-## License
-This project is licensed under the MIT License.
 
 ---
 **Author**: Mahesh Diwan  
