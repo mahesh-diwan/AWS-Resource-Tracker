@@ -20,7 +20,7 @@ Before running the script, ensure the following:
 ## How to Use
 1. Clone the repository or download the script:
    ```bash
-   git clone <repository_url>
+   git clone 
    cd <repository_folder>
    ```
 2. Make the script executable:
